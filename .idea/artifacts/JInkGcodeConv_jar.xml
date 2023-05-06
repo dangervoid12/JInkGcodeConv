@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JInkGcodeConv:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JInkGcodeConv_jar</output-path>
+    <root id="archive" name="JInkGcodeConv.jar">
+      <element id="module-output" name="JInkGcodeConv" />
+    </root>
+  </artifact>
+</component>
